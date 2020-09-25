@@ -2,9 +2,10 @@
 
 **[ 새로운 기능 업데이트 안내 ]**
 
-<img width=330 height=171 alt="blind" src="https://user-images.githubusercontent.com/59416592/94258339-ab5dff80-ff67-11ea-8f8d-baa1d40e4a6a.png">
-
 - 커뮤니티 익명 기능 추가 
+
+![익명기능](https://user-images.githubusercontent.com/59416592/94258339-ab5dff80-ff67-11ea-8f8d-baa1d40e4a6a.png)
+
 - 테마 파스톤 색상 추가, 커스텀 기능 추가 
 - 예상 수료일 계산 
 - 긴급 공지사항 팝업 기능 추가 
