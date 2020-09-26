@@ -7,6 +7,9 @@
 ![익명기능](https://user-images.githubusercontent.com/59416592/94258339-ab5dff80-ff67-11ea-8f8d-baa1d40e4a6a.png)
 
 - 테마 파스톤 색상 추가, 커스텀 기능 추가 
+
+![커스텀 컬러](https://user-images.githubusercontent.com/59416592/94337264-2c7acc80-0024-11eb-9212-e8748eb2665d.png)
+
 - 예상 수료일 계산 
 - 긴급 공지사항 팝업 기능 추가 
 
